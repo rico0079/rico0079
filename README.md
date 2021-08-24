@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Nishant "Rico" Mishra 
-- 👀 I’m interested in AI/ML 
+- 👋 Hi, I’m Nishant Mishra AKA Rico
+- 👀 I’m interested in Hackathons , Linux 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 💞️ I’m looking to collaborate on Bots, Linux, Open Source
 
 
-<!---
-rico0079/rico0079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
